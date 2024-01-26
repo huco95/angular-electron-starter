@@ -21,7 +21,7 @@ Angular 17 and Electron 28 starter template to build web and desktop application
 Clone the repository:
 
 ```bash
-git clone url
+git clone https://github.com/huco95/angular-electron-starter.git
 ```
 
 Install dependencies:
