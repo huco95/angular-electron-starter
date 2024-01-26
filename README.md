@@ -1,11 +1,11 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="250"/>
+  <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="200"/>
   <img src="https://www.electronjs.org/es/assets/img/logo.svg" alt="electron" width="200" />
 </div>
 
 # Introduction
 
-Angular 17 and Electron 27 starter template to build web and desktop applications.
+Angular 17 and Electron 28 starter template to build web and desktop applications.
 
 ## Features
 
