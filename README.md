@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*jlg3PXZ6PYdUGy40tXybKw.gif" alt="angular" width="250"/>
+  <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="250"/>
   <img src="https://www.electronjs.org/es/assets/img/logo.svg" alt="electron" width="200" />
 </div>
 
