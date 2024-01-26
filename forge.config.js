@@ -10,11 +10,13 @@ module.exports = {
       "^/src",
       "^/angular.json",
       "^/package-lock.json",
-      "^/README.md",
       "^/tailwind.config.js",
       "^/tsconfig.app.json",
       "^/tsconfig.json",
       "^/tsconfig.spec.json",
+      "^/README.md",
+      "^/LICENSE",
+      "^/CODE_OF_CONDUCT.md"
     ],
   },
   makers: [
